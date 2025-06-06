@@ -38,8 +38,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabinDr&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FabinDr/FabinDr/output/pacman-contribution-graph.svg">
-
 <img src="https://raw.githubusercontent.com/FabinDr/FabinDr/output/snake.svg" alt="Snake animation" />
 
 ###
