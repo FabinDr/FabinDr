@@ -1,11 +1,35 @@
-<h2 align="left">About me</h2>
+<h1 align="left">Fabio Duarte</h1>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Sou um estudante de Ciência e Tecnologia na UFMA, apaixonado pelo universo dos dados e direcionando minha carreira para esta área. Minha jornada começou no desenvolvimento Backend, o que me deu uma base sólida em lógica e resolução de problemas que hoje aplico no ecossistema de dados.</p>
 
 ###
 
+### 🔭 O que estou fazendo agora:
+- Aprimorando minhas habilidades em Python com foco em análise de dados.
+- Estudando SQL para consultas complexas e manipulação de grandes volumes de dados.
+- Aprofundando os estudos em bancos de dados.
+
+---
+
+### Conecte-se 
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/fabioduarte-ic/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/299979062963732481" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="fbduarte.ic@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a/>
+   
+</div>
+
+---
+  
 <h2 align="left">Techs</h2>
 
 ###
@@ -42,15 +66,4 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/fabioduarte-ic/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/299979062963732481" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
