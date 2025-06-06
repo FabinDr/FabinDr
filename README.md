@@ -44,12 +44,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FabinDr/FabinDr/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-
 <img src="https://raw.githubusercontent.com/FabinDr/FabinDr/output/snake.svg" alt="Snake animation" />
-
-![Snake animation](https://github.com/dev-viniciuss/dev-viniciuss/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
