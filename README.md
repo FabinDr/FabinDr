@@ -55,15 +55,15 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
   <td width="50%" valign="top">
 
 ### GO GitHub Stats
-<!--
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fabindr&show_icons=true&bg_color=00000000&title_color=0077b6&text_color=ffffff">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fabindr&show_icons=true&bg_color=00000000&title_color=#2685BF&text_color=#ffffff">
   <img src="https://github-readme-stats.vercel.app/api?username=fabindr&show_icons=true&bg_color=00000000&title_color=0077b6&text_color=000000">
 </picture>
--->
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabindr&show_icons=true&theme=transparent)
-
+-->
 </div>
 
 ---
