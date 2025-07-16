@@ -68,7 +68,7 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
 <!-- Troca a cor de acordo com o tema -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&title_color=0077b6&text_color=ffffff">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&title_color=0000ff&text_color=000000">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&title_color=0077b6&text_color=000000">
 </picture>
 
 
