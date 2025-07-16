@@ -66,6 +66,10 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
 
 ---
 ### Most Used Languanges
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabindr&langs_count=6&layout=donut&bg_color=00000000&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff)
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabindr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
