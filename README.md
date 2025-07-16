@@ -29,7 +29,6 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
 
 ### RESUME
 
-- 🎓 Graduando em Ciência e Tecnologia - UFMA
 - 📍 São Luís - MA  
 - 📊 Apaixonado por dados, gráficos, dashboards e storytelling  
 - 📚 Atualmente aprendendo: Power BI, python e Estatística Básica  
