@@ -45,6 +45,10 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
 
+### Conecte-se 
+
+<a href="https://www.linkedin.com/in/fabioduarte-ic/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a> <a href="https://discord.com/users/299979062963732481" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /> </a> <a href="mailto:fbduarte.ic@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/> <a/> 
+
   </td>
 
   <!-- Coluna direita -->
@@ -78,9 +82,6 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
 </table>
 </div>
 
-### Conecte-se 
-
-<a href="https://www.linkedin.com/in/fabioduarte-ic/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a> <a href="https://discord.com/users/299979062963732481" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /> </a> <a href="mailto:fbduarte.ic@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/> <a/> 
 
 <!-- Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1976D2,100:0D47A1&section=footer"/>
