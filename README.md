@@ -55,13 +55,16 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
   <td width="50%" valign="top">
 
 ### GO GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fabindr&show_icons=true&bg_color=00000000&title_color=0077b6&text_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabindr&show_icons=true&bg_color=00000000&title_color=0077b6&text_color=000000">
+</picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabindr&show_icons=true&theme=transparent)
 
 <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabindr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabindr&show_icons=true&theme=transparent)
+-->
 
--->  
 </div>
 
 ---
@@ -72,7 +75,7 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
 </picture>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff) -->
 
   </td>
 </tr>
