@@ -7,23 +7,23 @@
 </div>
 
 ---
-
-## ABOUT ME
-
-<div style="background-color:#0D47A1; padding: 16px; border-radius: 10px; color: white;">
-Olá! Me chamo <strong>Fabio Duarte</strong>. Sou estudante de Ciência e Tecnologia na <strong>UFMA</strong> e estou direcionando minha carreira para o mundo dos <strong>dados</strong>.
-
-Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocínio lógico, hoje aplicado em análises, gráficos e bancos relacionais e não-relacionais.
+<div>
+<h2 align="left">ABOUT ME</h1>
+<p align="left">Olá! Me chamo <strong>Fabio Duarte</strong>. Sou estudante de Ciência e Tecnologia na <strong>UFMA</strong> e estou direcionando minha carreira para o mundo dos <strong>dados</strong>.
+Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocínio lógico, hoje aplicado em análises, gráficos e bancos relacionais e não-relacionais. </p>
+<img align="right" alt="Jovem Tech" width="400" src="https://github.com/user-attachments/assets/e5d175a6-a938-484b-a6ce-48ffd26d1b06">
 </div>
 
+
 ---
-### RESUME
 
-- 📍 São Luís - MA  
-- 📊 Apaixonado por dados, gráficos, dashboards e storytelling  
-- 📚 Atualmente aprendendo: Power BI, Python e Estatística Básica  
-- 🚀 Em busca de projetos que impactam decisões com dados  
+**O que estou fazendo agora**
 
+- 🐍 Aprimorando minhas habilidades em **Python** com foco em análise de dados  
+- 🧮 Estudando **SQL** para consultas complexas e manipulação de grandes volumes de dados
+- 🚀 Em busca de projetos que impactam decisões com dados 
+- 💽 Aprofundando os estudos em **bancos de dados relacionais e não-relacionais**
+  
 ---
 
 ### 🛠️ TECH STACK
