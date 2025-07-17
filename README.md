@@ -17,12 +17,12 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
 
 ---
 
-**O que estou fazendo agora**
+**What I'm doing now**
 
-- 🐍 Aprimorando minhas habilidades em **Python** com foco em análise de dados  
-- 🧮 Estudando **SQL** para consultas complexas e manipulação de grandes volumes de dados
-- 🚀 Em busca de projetos que impactam decisões com dados 
-- 💽 Aprofundando os estudos em **bancos de dados relacionais e não-relacionais**
+- 🐍 Improving my Python skills with a focus on data analysis  
+- 🧮 Studying SQL for complex queries and handling large volumes of data  
+- 🚀 Looking for projects that drive decision-making through data  
+- 💽 Deepening my knowledge of relational and non-relational databases
   
 ---
 
