@@ -23,6 +23,7 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
 - 🧮 Studying SQL for complex queries and handling large volumes of data  
 - 🚀 Looking for projects that drive decision-making through data  
 - 💽 Deepening my knowledge of relational and non-relational databases
+<br>
   
 ---
 
@@ -32,8 +33,8 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/> 
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  /></div>
 
-
 ---
+<br>
 
 <div align="center">
   <samp>
