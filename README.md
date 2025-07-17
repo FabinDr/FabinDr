@@ -28,6 +28,7 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
 ---
 
 ### 🛠️ TECH STACK
+
 <div><img src="https://skillicons.dev/icons?i=python" height="40"/>
 <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/> 
