@@ -35,23 +35,36 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
 
 ---
 
-### Conecte-se
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
 
-
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=023e8a)](mailto:fbduarte.ic@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=023e8a)](https://discord.gg)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=023e8a)](http://linkedin.com/in/fabioduarte-ic/)
+  
+</div>
 
 
 ---
+## GO GitHub Stats
+<div align="center">
+<img  height=350 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabinDr&theme=react">
+<img  height=350 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FabinDr&theme=react&utcOffset=8">
 
-### GO GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabindr&show_icons=true&theme=transparent&text_color=ffffff)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&title_color=0077b6&text_color=ffffff">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&title_color=0077b6&text_color=000000">
-</picture>
-
-
+  
+  <img
+    align="center"
+    height=500
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabinDr&theme=react"
+  />
+</div>
 
 
 <!-- Rodapé -->
