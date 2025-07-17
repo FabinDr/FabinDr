@@ -3,9 +3,7 @@
 
 <!-- Título central com animação de digitação -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1976D2&center=true&vCenter=true&width=500&lines=Oi%2C+eu+sou+o+Fabio+Duarte!;Data+Analyst+em+formação;Python+%7C+SQL+%7C+BI+%7C+Storytelling" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=500&size=30&pause=1000&center=true&width=435&lines=Hello%2C+welcome!;I'm+Fabio+Duarte;Data+Analyst" alt="Typing SVG" /></a>
 </div>
 
 ---
