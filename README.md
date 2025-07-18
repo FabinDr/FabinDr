@@ -66,7 +66,11 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
 <h2>
   Projects
 </h2>
-  
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 </div>
 
 <div>
@@ -77,8 +81,6 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabinDr&theme=react"
   />
-
-   <img height=350 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabinDr&theme=react">
 </div>
 
 <!-- Rodapé -->
