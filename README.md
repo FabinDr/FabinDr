@@ -29,19 +29,26 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
 
 ### 🛠️ TECH STACK
 
-<div><img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/> 
-<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  /></div>
+<div>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="40" alt="SQL logo"/> 
+<img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="Excel logo" /> 
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"/>
+
+</div>
 
 ---
 
 <div>
-  <img align="left" height=350 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabinDr&theme=react">
-  <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabindr&theme=react" />
+ 
+</div>
+
+---
+
+ <div align="center">
   <samp>
-  <br>
-  <br>
       Contact me:
       <br>
   </samp>
@@ -52,11 +59,15 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=023e8a)](http://linkedin.com/in/fabioduarte-ic/)
   
   </div> 
-</div>
-  <br>
-  <br>
 
 ---
+
+<div>
+<h2>
+  Projects
+</h2>
+  
+</div>
 
 <div>
   
@@ -66,7 +77,8 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabinDr&theme=react"
   />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabindr&theme=react" />
+
+   <img height=350 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabinDr&theme=react">
 </div>
 
 <!-- Rodapé -->
