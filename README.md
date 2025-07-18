@@ -35,39 +35,39 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  /></div>
 
 ---
-<br>
 
-<div align="center">
+<div>
+  <img align="left" height=350 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabinDr&theme=react">
+  <div align="center">
   <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
   <br>
+  <br>
+      Contact me:
+      <br>
+  </samp>
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=023e8a)](mailto:fbduarte.ic@gmail.com)
   [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=023e8a)](https://discord.gg)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=023e8a)](http://linkedin.com/in/fabioduarte-ic/)
   
+  </div> 
 </div>
-
+  <br>
+  <br>
 
 ---
-## GO GitHub Stats
-<div align="center">
-<img  height=350 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabinDr&theme=react">
-<img  height=350 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FabinDr&theme=react&utcOffset=8">
 
+<div>
   
   <img
-    align="center"
-    height=500
+    align="left"
+    height=600
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabinDr&theme=react"
   />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabindr&theme=react" />
 </div>
-
 
 <!-- Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1976D2,100:0D47A1&section=footer"/>
