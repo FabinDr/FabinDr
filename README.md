@@ -15,41 +15,51 @@ Direciono minha carreira para o universo dos dados e a tomada de decisão basead
 --- 
 
 <div>
-<img align="right" alt="Jovem Tech" width="400" src="https://github.com/user-attachments/assets/e5d175a6-a938-484b-a6ce-48ffd26d1b06">
-
-  **What I'm doing now**
-
-- 🐍 Improving my Python skills with a focus on data analysis  
-- 🧮 Studying SQL for complex queries and handling large volumes of data  
-- 🚀 Looking for projects that drive decision-making through data  
-- 💽 Deepening my knowledge of relational and non-relational databases
-<br>
-<br>
-  
+ <img align="right" alt="Jovem Tech" width="400" src="https://github.com/user-attachments/assets/e5d175a6-a938-484b-a6ce-48ffd26d1b06">
+ 
+   **What I'm doing now**
+ 
+ - 🐍 Improving my Python skills with a focus on data analysis  
+ - 🧮 Studying SQL for complex queries and handling large volumes of data  
+ - 🚀 Looking for projects that drive decision-making through data  
+ - 💽 Deepening my knowledge of relational and non-relational databases
+ <br>
+ <br>
+   
 ---
 
 ### 🛠️ TECH STACK
 
 <div>
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="40" alt="SQL logo"/> 
-<img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="Excel logo" /> 
-<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"/>
-<br>
-<br>
-<br>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="40" alt="SQL logo"/> 
+  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="Excel logo" /> 
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"/>
+  <br>
+  <br>
+  <br>
+ </div>
 
 </div>
 
-</div>
 
 ---
 
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabindr&theme=react" />
- 
+<h2>
+  Projects
+</h2>
+
+ <p>Ainda vou adcionar</p>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 </div>
+
+<div>
 
 ---
 
@@ -67,19 +77,6 @@ Direciono minha carreira para o universo dos dados e a tomada de decisão basead
   </div> 
 
 ---
-
-<div>
-<h2>
-  Projects
-</h2>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-</div>
-
-<div>
   
   <img
     align="left"
@@ -87,6 +84,11 @@ Direciono minha carreira para o universo dos dados e a tomada de decisão basead
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabinDr&theme=react"
   />
+</div>
+
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabindr&theme=react" />
+ 
 </div>
 
 <!-- Rodapé -->
