@@ -9,20 +9,21 @@
 ---
 <div>
 <h2 align="left">ABOUT ME</h1>
-<p align="left">Olá! Me chamo <strong>Fabio Duarte</strong>. Sou estudante de Ciência e Tecnologia na <strong>UFMA</strong> e estou direcionando minha carreira para o mundo dos <strong>dados</strong>.
-Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocínio lógico, hoje aplicado em análises, gráficos e bancos relacionais e não-relacionais. </p>
+<p align="left"> <strong>Analista de Dados e graduando em Ciência e Tecnologia pela UFMA.</strong>
+Direciono minha carreira para o universo dos dados e a tomada de decisão baseada em evidências. Tenho experiência com Python (Pandas, NumPy), SQL e Excel, ferramentas que utilizo para transformar dados em insights estratégicos e apoiar decisões de negócio.
+
+--- 
+
+<div>
 <img align="right" alt="Jovem Tech" width="400" src="https://github.com/user-attachments/assets/e5d175a6-a938-484b-a6ce-48ffd26d1b06">
-</div>
 
-
----
-
-**What I'm doing now**
+  **What I'm doing now**
 
 - 🐍 Improving my Python skills with a focus on data analysis  
 - 🧮 Studying SQL for complex queries and handling large volumes of data  
 - 🚀 Looking for projects that drive decision-making through data  
 - 💽 Deepening my knowledge of relational and non-relational databases
+<br>
 <br>
   
 ---
@@ -35,6 +36,11 @@ Minha base em desenvolvimento <strong>Back-End</strong> fortaleceu meu raciocín
 <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="Excel logo" /> 
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"/>
+<br>
+<br>
+<br>
+
+</div>
 
 </div>
 
