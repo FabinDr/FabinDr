@@ -9,8 +9,8 @@
 ---
 <div>
 <h2 align="left">ABOUT ME</h1>
-<p align="left"> <strong>Analista de Dados e graduando em Ciência e Tecnologia pela UFMA.</strong>
-Direciono minha carreira para o universo dos dados e a tomada de decisão baseada em evidências. Tenho experiência com Python (Pandas, NumPy), SQL e Excel, ferramentas que utilizo para transformar dados em insights estratégicos e apoiar decisões de negócio.
+<p align="left"> <strong>Data Analyst and undergraduate student in Science and Technology at UFMA.</strong> <br>
+I'm building my career in the field of data analytics and evidence-based decision making. I have hands-on experience with Python (Pandas, NumPy), SQL, and Excel to transform raw data into strategic insights that support business decisions. </p>
 
 --- 
 
