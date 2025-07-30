@@ -51,7 +51,7 @@ I'm building my career in the field of data analytics and evidence-based decisio
   Projects
 </h2>
 
- <p>Ainda vou adcionar</p>
+ <p>Em desenvolvimento</p>
   <br>
   <br>
   <br>
