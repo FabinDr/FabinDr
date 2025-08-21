@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fabio Duarte - Data Analyst</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+            line-height: 1.5;
+            color: #24292f;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 20px;
+            max-width: 1012px;
+            margin: 0 auto;
+        }
+        
+        .banner {
+            width: 100%;
+            height: 100px;
+            background: linear-gradient(90deg, #0D47A1 0%, #1976D2 100%);
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        
+        .typing-animation {
+            text-align: center;
+            margin: 30px 0;
+        }
+        
+        .typing-text {
+            font-family: Ubuntu, sans-serif;
+            font-size: 30px;
+            font-weight: bold;
+            color: #1976D2;
+            animation: typing 4s infinite;
+        }
+        
+        @keyframes typing {
+            0%, 25% { content: "Hello, welcome!"; }
+            25%, 50% { content: "I'm Fabio Duarte"; }
+            50%, 75% { content: "Data Analyst"; }
+            75%, 100% { content: "Hello, welcome!"; }
+        }
+        
+        .about-section {
+            margin: 40px 0;
+        }
+        
+        .about-content {
+            display: flex;
+            align-items: flex-start;
+            gap: 40px;
+            flex-wrap: wrap;
+        }
+        
+        .about-text {
+            flex: 1;
+            min-width: 300px;
+        }
+        
+        .about-image {
+            width: 400px;
+            height: auto;
+            border-radius: 10px;
+            flex-shrink: 0;
+        }
+        
+        .current-work {
+            background-color: #f6f8fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        
+        .current-work h3 {
+            margin-top: 0;
+            color: #1976D2;
+        }
+        
+        .current-work ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .current-work li {
+            margin: 10px 0;
+            padding-left: 25px;
+            position: relative;
+        }
+        
+        .current-work li:before {
+            content: "•";
+            color: #1976D2;
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+        }
+        
+        .tech-stack {
+            margin: 40px 0;
+        }
+        
+        .tech-icons {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin: 20px 0;
+        }
+        
+        .tech-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 5px;
+            transition: transform 0.2s;
+        }
+        
+        .tech-icon:hover {
+            transform: scale(1.1);
+        }
+        
+        .projects-section {
+            margin: 40px 0;
+            text-align: center;
+            padding: 40px;
+            background-color: #f6f8fa;
+            border-radius: 10px;
+        }
+
+        .project-card {
+            background: linear-gradient(145deg, #ffffff 0%, #f8fafc 100%);
+            border-radius: 15px;
+            box-shadow: 0 8px 25px rgba(25, 118, 210, 0.15);
+            padding: 0;
+            width: 320px;
+            max-width: 100%;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(25, 118, 210, 0.1);
+            position: relative;
+        }
+
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(25, 118, 210, 0.25);
+        }
+
+        .project-image {
+            width: 100%;
+            height: 180px;
+            background: linear-gradient(135deg, #1976D2 0%, #0D47A1 100%);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .project-badge {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: rgba(255,255,255,0.9);
+            border-radius: 20px;
+            padding: 5px 12px;
+            font-size: 12px;
+            color: #1976D2;
+            font-weight: bold;
+        }
+
+        .project-title {
+            margin: 0 0 10px 0;
+            color: #1976D2;
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .project-description {
+            color: #64748b;
+            font-size: 14px;
+            line-height: 1.5;
+            margin: 0 0 20px 0;
+        }
+
+        .project-buttons {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .btn-primary {
+            background: #1976D2;
+            color: white;
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 500;
+            transition: all 0.2s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .btn-primary:hover {
+            background: #0D47A1;
+            transform: translateY(-1px);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: #1976D2;
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 500;
+            border: 2px solid #1976D2;
+            transition: all 0.2s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .btn-secondary:hover {
+            background: #1976D2;
+            color: white;
+            transform: translateY(-1px);
+        }
+        
+        .contact-section {
+            text-align: center;
+            margin: 40px 0;
+        }
+        
+        .contact-links {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin: 20px 0;
+        }
+        
+        .contact-badge {
+            display: inline-block;
+            padding: 8px 16px;
+            background-color: #000;
+            color: #1976D2;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background-color 0.2s;
+        }
+        
+        .contact-badge:hover {
+            background-color: #1976D2;
+            color: white;
+        }
+        
+        .stats-section {
+            display: flex;
+            gap: 20px;
+            margin: 40px 0;
+            flex-wrap: wrap;
+        }
+        
+        .stat-card {
+            flex: 1;
+            min-width: 300px;
+            border-radius: 10px;
+            overflow: hidden;
+            background-color: #f6f8fa;
+        }
+        
+        .stat-card img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        
+        .footer-banner {
+            width: 100%;
+            height: 100px;
+            background: linear-gradient(90deg, #1976D2 0%, #0D47A1 100%);
+            border-radius: 10px;
+            margin-top: 40px;
+        }
+        
+        h1, h2 {
+            color: #1976D2;
+            border-bottom: 2px solid #e1e4e8;
+            padding-bottom: 10px;
+        }
+        
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            
+            .about-content {
+                flex-direction: column;
+            }
+            
+            .about-image {
+                width: 100%;
+                max-width: 400px;
+                margin: 0 auto;
+            }
+            
+            .typing-text {
+                font-size: 24px;
+            }
+            
+            .stats-section {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Banner de topo com gradiente azul -->
+    <div class="banner"></div>
+
+    <!-- Título central com animação de digitação -->
+    <div class="typing-animation">
+        <div class="typing-text">Hello, welcome!</div>
+    </div>
+
+    <hr>
+
+    <div class="about-section">
+        <h2>ABOUT ME</h2>
+        <div class="about-content">
+            <div class="about-text">
+                <p><strong>Data Analyst and undergraduate student in Science and Technology at UFMA.</strong><br>
+                I'm building my career in the field of data analytics and evidence-based decision making. I have hands-on experience with Python (Pandas, NumPy), SQL, and Excel to transform raw data into strategic insights that support business decisions.</p>
+            </div>
+            <img class="about-image" src="https://github.com/user-attachments/assets/e5d175a6-a938-484b-a6ce-48ffd26d1b06" alt="Jovem Tech">
+        </div>
+        
+        <div class="current-work">
+            <h3>What I'm doing now</h3>
+            <ul>
+                <li>🐍 Improving my Python skills with a focus on data analysis</li>
+                <li>🧮 Studying SQL for complex queries and handling large volumes of data</li>
+                <li>🚀 Looking for projects that drive decision-making through data</li>
+                <li>💽 Deepening my knowledge of relational and non-relational databases</li>
+            </ul>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="tech-stack">
+        <h3>🛠️ TECH STACK</h3>
+        <div class="tech-icons">
+            <img class="tech-icon" src="https://skillicons.dev/icons?i=python" alt="Python">
+            <img class="tech-icon" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL">
+            <img class="tech-icon" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Analytics">
+            <img class="tech-icon" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel">
+            <img class="tech-icon" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="projects-section">
+        <h2>
+            <img src="https://img.icons8.com/fluency/48/000000/code.png" alt="Projects Icon" width="40" height="40"/>
+            Projetos
+        </h2>
+
+        <div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center; margin: 30px 0; padding: 0 20px;">
+
+          <!-- Card Projeto 1 -->
+          <div class="project-card">
+            <!-- Imagem do Projeto -->
+            <div class="project-image">
+              <img src="https://via.placeholder.com/320x180/1976D2/ffffff?text=Data+Analytics+Dashboard"
+                   alt="Data Analytics Dashboard"
+                   style="width: 100%; height: 100%; object-fit: cover; opacity: 0.9;" />
+              <div class="project-badge">Data Analysis</div>
+            </div>
+
+            <!-- Conteúdo do Card -->
+            <div style="padding: 20px;">
+              <h3 class="project-title">📊 Dashboard de Vendas</h3>
+
+              <p class="project-description">
+                Dashboard interativo para análise de dados de vendas com Python e Streamlit.
+                Visualizações dinâmicas e insights automatizados para tomada de decisão.
+              </p>
+
+              <!-- Botões -->
+              <div class="project-buttons">
+                <a href="https://github.com/FabinDr/sales-dashboard" target="_blank" class="btn-primary">
+                  <img src="https://img.icons8.com/fluency-systems-filled/20/ffffff/github.png" alt="GitHub" width="16" height="16"/>
+                  Repositório
+                </a>
+
+                <a href="https://sales-dashboard-demo.streamlit.app" target="_blank" class="btn-secondary">
+                  <img src="https://img.icons8.com/fluency-systems-filled/20/1976D2/external-link.png" alt="Demo" width="16" height="16"/>
+                  Ver Demo
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card Projeto 2 -->
+          <div class="project-card">
+            <!-- Imagem do Projeto -->
+            <div class="project-image">
+              <img src="https://via.placeholder.com/320x180/0D47A1/ffffff?text=SQL+Query+Optimizer"
+                   alt="SQL Query Optimizer"
+                   style="width: 100%; height: 100%; object-fit: cover; opacity: 0.9;" />
+              <div class="project-badge">Database</div>
+            </div>
+
+            <!-- Conteúdo do Card -->
+            <div style="padding: 20px;">
+              <h3 class="project-title">🗄️ Otimizador SQL</h3>
+
+              <p class="project-description">
+                Ferramenta para análise e otimização de consultas SQL complexas.
+                Identifica gargalos e sugere melhorias para performance de banco de dados.
+              </p>
+
+              <!-- Botões -->
+              <div class="project-buttons">
+                <a href="https://github.com/FabinDr/sql-optimizer" target="_blank" class="btn-primary">
+                  <img src="https://img.icons8.com/fluency-systems-filled/20/ffffff/github.png" alt="GitHub" width="16" height="16"/>
+                  Repositório
+                </a>
+
+                <a href="https://sql-optimizer-tool.herokuapp.com" target="_blank" class="btn-secondary">
+                  <img src="https://img.icons8.com/fluency-systems-filled/20/1976D2/external-link.png" alt="Demo" width="16" height="16"/>
+                  Ver Projeto
+                </a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="contact-section">
+        <p><strong>Contact me:</strong></p>
+        <div class="contact-links">
+            <a href="mailto:fbduarte.ic@gmail.com" class="contact-badge">Gmail</a>
+            <a href="https://discord.gg" class="contact-badge">Discord</a>
+            <a href="http://linkedin.com/in/fabioduarte-ic/" class="contact-badge">LinkedIn</a>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="stats-section">
+        <div class="stat-card">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabinDr&theme=react" alt="Top Language">
+        </div>
+        <div class="stat-card">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabindr&theme=react" alt="Repos by Language">
+        </div>
+    </div>
+
+    <!-- Rodapé -->
+    <div class="footer-banner"></div>
+
+    <script>
+        // Simple typing animation
+        const texts = ["Hello, welcome!", "I'm Fabio Duarte", "Data Analyst"];
+        let textIndex = 0;
+        let charIndex = 0;
+        let isDeleting = false;
+        const typingElement = document.querySelector('.typing-text');
+        
+        function typeEffect() {
+            const currentText = texts[textIndex];
+            
+            if (isDeleting) {
+                typingElement.textContent = currentText.substring(0, charIndex - 1);
+                charIndex--;
+            } else {
+                typingElement.textContent = currentText.substring(0, charIndex + 1);
+                charIndex++;
+            }
+            
+            let typeSpeed = isDeleting ? 50 : 100;
+            
+            if (!isDeleting && charIndex === currentText.length) {
+                typeSpeed = 2000; // Pause at end
+                isDeleting = true;
+            } else if (isDeleting && charIndex === 0) {
+                isDeleting = false;
+                textIndex = (textIndex + 1) % texts.length;
+                typeSpeed = 500; // Pause between texts
+            }
+            
+            setTimeout(typeEffect, typeSpeed);
+        }
+        
+        // Start the typing effect
+        typeEffect();
+    </script>
+</body>
+</html>
