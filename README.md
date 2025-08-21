@@ -46,20 +46,48 @@ I'm building my career in the field of data analytics and evidence-based decisio
 
 ---
 
-<div>
-<h2>
-  Projects
-</h2>
+## 💼 Projetos
 
- <p>Em desenvolvimento</p>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>Análise dos Unicórnios 2022 — Setores, Países e Investidores</h3>
+        <a href="https://github.com/FabinDr/sales-dashboard">
+          <img src="https://forbes.com.br/wp-content/uploads/2022/06/unicornio-startuo.jpg" width="280" alt="Dashboard de Vendas"/>
+        </a>
+        <p>Análise de empresas que atingiram o status de unicórnio em 2022, explorando setores de atuação, países de origem, investidores envolvidos e principais tendências de mercado responsáveis pelo crescimento acelerado dessas startups.</p>
+        <p><code>Python</code> <code>Streamlit</code> <code>Pandas</code> <code>Plotly</code></p>
+        <p>
+          <a href="https://github.com/FabinDr/sales-dashboard">
+            <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github" alt="GitHub"/>
+          </a>
+          <a href="https://sales-dashboard-demo.streamlit.app">
+            <img src="https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit" alt="Demo"/>
+          </a>
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h3>Análise de Salários na Área de Dados - Imersão Alura</h3>
+        <a href="https://github.com/FabinDr/sql-optimizer">
+          <img src="https://fabioduarte.vercel.app/assets/img/An%C3%A1lsie%20dos%20setores.jpg" width="280" alt="Otimizador SQL"/>
+        </a>
+        <p>Análise dos salários de profissionais de Data Science, investigando níveis de experiência, tipos de vínculo, cargos, conversão de remunerações para uma moeda padrão, país de residência e localização da empresa, proporção de trabalho remoto e tendências salariais.</p>
+        <p><code>Python</code> <code>Streamlit</code> <code>Pandas</code> <code>Plotly</code> </p>
+        <p>
+          <a href="https://github.com/FabinDr/sql-optimizer">
+            <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github" alt="GitHub"/>
+          </a>
+          <a href="https://sql-optimizer-tool.herokuapp.com">
+            <img src="https://img.shields.io/badge/Live-Demo-430098?style=flat&logo=heroku" alt="Demo"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div>
+---
 
 ---
 
