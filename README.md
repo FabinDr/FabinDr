@@ -9,6 +9,7 @@
 ---
 <div>
 <h2 align="left">ABOUT ME</h1>
+ 
 <p align="left"> <strong>Data Analyst and undergraduate student in Science and Technology at UFMA.</strong> <br>
 I'm building my career in the field of data analytics and evidence-based decision making. I have hands-on experience with Python (Pandas, NumPy), SQL, and Excel to transform raw data into strategic insights that support business decisions. </p>
 
